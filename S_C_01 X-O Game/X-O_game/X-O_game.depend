@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1679914694 source:d:\abdel-ghfar_embedded_diploma\part 1 c programming course_01\c_programs\x-o_game\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1680521230 source:c:\new folder\sprint-bootcamp\02_c_programming\s_c_01 x-o game\x-o_game\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
